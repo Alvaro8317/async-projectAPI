@@ -1,0 +1,19 @@
+{
+  "name": "async-projectapi",
+  "version": "1.0.0",
+  "description": "Little project to practice Async Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvaro8317/async-projectAPI.git"
+  },
+  "author": "Alvaro Garzón - Alvaro8317 <eduardo831_@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alvaro8317/async-projectAPI/issues"
+  },
+  "homepage": "https://github.com/Alvaro8317/async-projectAPI#readme"
+}
