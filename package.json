@@ -4,7 +4,7 @@
   "description": "Little project to practice Async Functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gh-pages": "gh-pages -d src" 
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alvaro8317/async-projectAPI/issues"
   },
-  "homepage": "https://github.com/Alvaro8317/async-projectAPI#readme"
+  "homepage": "https://github.com/Alvaro8317/async-projectAPI#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
